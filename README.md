@@ -10,7 +10,7 @@ The present submission contains:
 - A LiveScript for the example file
 - A data file GreatBeltSpectra.mat that contains the wind spectra from the Great belt bridge experiment for comparison with the computed spectra.
 
-This is the first version of the submission. Some bugs may still exist. Any question, comment or suggestion is warmly welcomed.
+Any question, comment or suggestion is warmly welcomed.
 
 References
 
