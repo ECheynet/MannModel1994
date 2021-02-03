@@ -1,5 +1,5 @@
-# Matlab implementation of the uniform shear model
-Numerical implementation of the uniform-shear model by Mann (1994)
+# Numerical implementation of the uniform-shear model
+Matlab implementation of the uniform shear model by Mann (1994)
 
 [![View Uniform shear model (Mann, 1994) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/67055-uniform-shear-model-mann-1994)
 [![DOI](https://zenodo.org/badge/249148606.svg)](https://zenodo.org/badge/latestdoi/249148606)
